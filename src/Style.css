@@ -1,0 +1,283 @@
+.title-project{
+    font-size: 28px;
+    color: #000000;
+    font-weight: 500;
+}
+/* .makeStyles-tabss-143 {
+   background-color: red;
+} */
+.content-tabs{
+    background-color: white !important;
+    border-top-right-radius: 40px 30px !important;
+    width: 322px;
+    height: 44px;
+    margin-top:20px;
+}
+.MuiTab-wrapper{
+    font-weight: bold !important;
+}
+.makeStyles-stage-145 {
+    background-color: #f0f0f7 !important;
+}
+ .Mui-selected{
+     color: white !important;
+    background: #96CBFF !important;
+    height: 40px;
+    border-top-right-radius: 40px 30px !important;
+}
+.MuiBox-root-174 {
+    padding: 0px !important;
+    height: auto !important;
+}
+.new{
+    height:auto !important;
+    background-color: #fff;
+}
+.MuiTabs-root{
+    height: 40px;
+}
+/* .Mui-selected .MuiTab-wrapper{
+    background: #96CBFF !important;
+  
+} */
+.makeStyles-tabss-143 {
+    background-color: red;
+    width: 147px;
+    height: 43px;
+    font-size: 22px;
+    font-family: Roboto Medium;
+   border-top-right-radius: 40px 30px !important;
+    text-transform: capitalize;
+}
+
+.makeStyles-padding-176{
+    background-color: white !important;
+}
+.MuiAppBar-colorPrimary {
+    color: #616161 !important;
+    background-color: white !important;
+}
+/* project_view _persoNAS */
+
+
+.projectview_personas_maindiv{
+    /* top: 225px;
+left: 95px; */
+width: 1236px;
+/* height: 1655px; */
+background: #ffffff;
+opacity: 1;
+}
+.personasview_flex{
+    margin-left: 120px;
+}
+.projectview_personas_btns{
+    margin-left: 470px;
+}
+.btn_edit_projectview_personas{
+    /* left: 797px; */
+width: 130px;
+height: 45px;
+color: white;
+background: #96CBFF;
+font-size: 20px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 500;
+
+border-radius: 10px;
+opacity: 1;
+margin-left: 10px;
+}
+.btn_back_projectview_personas{
+    /* left: 797px; */
+    width: 130px;
+    height: 45px;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 500;
+    background: #96CBFF;
+    border-radius: 10px;
+    color: white;
+
+    opacity: 1;
+    margin-left: 20px;
+}
+
+.projectview_personas_img{  
+      width: 100% !important; 
+         border: 1px solid #aaa ;
+          height:200px;
+        }
+        .img-border{ 
+               border: 1px solid rgb(12, 10, 10) ;
+        height:200px;
+    }
+
+.img_div{
+    background-color: blueviolet;
+    margin-bottom: -20px;
+}
+
+.projectview_personas_experience{
+ 
+width: 260px;
+/* height: 22px; */
+text-align: left;
+font-size:  18px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+letter-spacing: 0;
+color: #313030;
+opacity: 1;
+margin-left: 10px;
+/* " & b":{
+
+}
+   */
+}
+
+
+.projectview_personas_Description{
+   
+/* width: 260px; */
+height: 44px;
+background: #96cbff;
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+opacity: 1;
+/* margin-left: 18px; */
+text-align: left;
+padding: 6px 10px ;
+font-size: 22px ;
+color: #ffffff;
+line-height: 1.75;
+
+
+
+}
+
+.projectview_personas_Description-mtr{
+    /* margin-left: 18px; */
+    /* width: 233px; */
+height: 101px;
+text-align: left;
+font-size:15px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+letter-spacing: 0;
+color: #413F3F;
+opacity: 1;
+}
+.projectview_personas_needs{
+    /* top: 309px; */
+margin-right: 60px;
+width: 500px;
+height: 44px;
+background-color: #96CBFF ;
+color:#FFFFFF;
+opacity: 1;
+font-size: 22px;
+line-height: 1.75;
+text-align: left;
+}
+
+.personas_lens{
+    color:black;
+    width:10px;
+    height:10px;
+}
+
+.left-div{
+    /* padding-right: 16px ; */
+}
+
+.profile-img{
+
+    padding: 0px ;
+    position: relative;
+}
+.profile-img img{
+ width: 100%;
+}
+.profile-name{
+    position: absolute;
+    bottom: 0px ;
+    width: 100%;
+    background: rgba(166, 7, 7, 0.11);
+    text-align: center;
+    padding: 6px 0px ;
+    
+}
+.profile_name_designation{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+/* letter-spacing: 0; */
+color: #000;
+
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+
+.projectview_personas_name{
+    font-size:  18px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+letter-spacing: 0;
+color: #000;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.panel-b{
+    border: 0px solid #000 ;
+    text-align: left;
+    
+}
+.panel-b h1{
+    background: #96CBFF ;
+    padding: 6px 10px ;
+    font-size: 22px ;
+    color: #ffffff;
+    margin: 0px;
+}
+.panel-body{
+    /* border: 0px solid red;
+    padding: 10px; */
+    overflow: scroll;
+    height: 160px;
+    
+}
+
+
+::-webkit-scrollbar {
+    width: 2em;
+ 
+}
+.bor-b{
+    border: 1px solid #aaa ;
+    margin-bottom: 20px ;
+    border-radius: 6px ;;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.2);
+-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.2);
+box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.2);
+padding: 16px ;
+/* background-color: #00000029; */
+}
+.grd1{
+    /* padding-left:10px */
+}
+.grditm{
+    /* align-items: left; */
+    padding-left: 5px;
+}
+.LeftSideBar {
+    color: red;
+    width: 60px;
+    height: 650px;
+    background-color: white;
+}
+   .LeftSideBar img {
+      width: 30px;
+      margin-top: 10px;
+   
+  }
+
+
